@@ -1,7 +1,4 @@
-pre {
-  font-family: Helvetica Neue;
-}
-
+/*color schema based in the awesome vostok palete*/
 body{
   font-family: Helvetica Neue;
 	background-color: #2B2F34;
@@ -16,10 +13,17 @@ h2{
 h3{
 	color: #FF9900;
 }
+a{
+	color: white;
+}
 blockquote{
 	padding: 16px;
 	background-color: #1F2226;	
 	width: auto;
+}
+
+pre {
+  font-family: Helvetica Neue;
 }
 
 .code .hll {

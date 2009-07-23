@@ -1,6 +1,11 @@
 !SLIDE
+
 # Barcamp Valencia
-Felipe Talavera Armero
+
+### El camino a la felicidad
+### con Ruby on Rails
+<!-- <br />
+[:felipe-talavera-armero => ["Iamfelipe.com"](http://iamfelipe.com)] -->
 
 !SLIDE
 
