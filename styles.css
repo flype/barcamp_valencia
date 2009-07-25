@@ -29,6 +29,10 @@ pre {
   font-family: Helvetica Neue;
 }
 
+li, p{
+	margin-top: 0.7em;
+	margin-bottom: 0.7em;
+}
 .code .hll {
 background-color:#404040;
 }
