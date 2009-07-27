@@ -243,7 +243,7 @@ Ahora Rails 2.3.3 vamos hacia...
 ## Estos apuntes
 https://github.com/flype/barcamp_valencia/tree
 
-!SLICE
+!SLIDE
 # GRACIAS
 
 <!--
